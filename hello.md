@@ -7,3 +7,5 @@ hi,github.
 Creating a new branch is quick.
 
 Test conflict
+
+test master branch conflict
