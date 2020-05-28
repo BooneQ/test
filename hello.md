@@ -6,4 +6,7 @@ hi,github.
 
 Creating a new branch is quick.
 
+<<<<<<< HEAD
 Test conflict
+=======
+>>>>>>> feature1
