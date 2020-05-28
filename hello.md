@@ -5,3 +5,5 @@ headache
 hi,github.
 
 Creating a new branch is quick.
+
+Test conflict
